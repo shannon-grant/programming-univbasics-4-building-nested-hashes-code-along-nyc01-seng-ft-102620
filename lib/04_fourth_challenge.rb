@@ -14,7 +14,7 @@ def fourth_challenge
           :attitude => "hot-headed"
         }
       ]
-   }, 
+   },
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
@@ -22,7 +22,7 @@ def fourth_challenge
       :heroine_friends => [
         { :name => "Steven",
           :age => "30",
-          :attitude => "confused"  
+          :attitude => "confused"
         },
         { :name => "Nurse",
           :age => "44",
@@ -32,6 +32,6 @@ def fourth_challenge
    }
 }
 
-  
+
 
 end
